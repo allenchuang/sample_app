@@ -1,0 +1,22 @@
+# Ignore bundler config.
+/.bundle
+
+# Ignore the default SQLite database.
+/db/*.sqlite3
+/db/*.sqlite3-journal
+
+# Ignore all logfiles and tempfiles.
+/log/*.log
+/tmp
+
+# Ignore other unneeded files.
+database.yml
+doc/
+*.swp
+*~
+.project
+.DS_Store
+.idea
+
+#ignore secret code - Allen 04/14/2014 per suggestion from http://ruby.railstutorial.org/chapters/static-pages#top
+.secret
