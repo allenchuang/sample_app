@@ -17,6 +17,7 @@ doc/
 .project
 .DS_Store
 .idea
+bundler_stubs/
 
 #ignore secret code - Allen 04/14/2014 per suggestion from http://ruby.railstutorial.org/chapters/static-pages#top
 .secret
